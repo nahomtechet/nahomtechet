@@ -19,8 +19,9 @@ I'm a passionate developer with a love for TypeScript and modern web technologie
 - 🎨 Next.js with TypeScript
 
 ## 📫 How to reach me
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/behailu-bekele-7b6baa2a8)](https://www.linkedin.com/in/behailu-bekele-7b6baa2a8)  
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Devidsess)](https://t.me/Devidsess)  
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/behailu-bekele-7b6baa2a8)](https://www.linkedin.com/in/behailu-bekele-7b6baa2a8)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Devidsess)](https://t.me/Devidsess)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:exitvitionet@gmail.com)](mailto:exitvitionet@gmail.com)
 
 ## 📊 GitHub Stats
